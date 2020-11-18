@@ -1,4 +1,4 @@
 #+TITLE: Nov 18th, 2020
 
-** It's not clear why this didn't show up today directly. I did find a work-around for that. Maybe the problem is that we have a mix of `.md` and `.org` format files
-**
+** It's not clear why this didn't show up today directly. I did find a work-around for that. Maybe the problem is that we have a mix of `.md` and `.org` format files. Possibly this can be resolved by everyone setting Avi→Settings→Preferred file format: Org
+** Today's threads on the OGM email forum:
