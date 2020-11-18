@@ -3,5 +3,5 @@
 ** It seems to be a pretty straightforward Roam Research clone, with the benefit of being open source
 ** Multiple users are supported directly by the Github backend
 ** The Discord server for development is here: https://discord.gg/5W4UnNtM
-** Interestingly Github issues include several in Chinese, so I guess there's a reasonable Chinese-speaking user and developer base
+** Interestingly Github issues include several in Chinese, so I guess there's a reasonable Chinese-speaking user and developer base: https://github.com/logseq/logseq/issues
 **
