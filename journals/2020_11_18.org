@@ -1,6 +1,6 @@
 #+TITLE: Nov 18th, 2020
 
-** It's not clear why this didn't show up today directly. I did find a work-around for that. Maybe the problem is that we have a mix of `.md` and `.org` format files. Possibly this can be resolved by everyone setting Avi→Settings→Preferred file format the same way. Presently mine is set to "Org" but if people hate that we could use Markdown
+** It's not clear why this didn't show up today directly. I did find a work-around for that. Maybe the problem is that we have a mix of `.md` and `.org` format files. Possibly this can be resolved by everyone setting Avi→Settings→Preferred file format the same way. Presently mine is set to "Org" but if people hate that, we could use Markdown.
 ** Today's threads on the OGM email forum:
 *** [[https://groups.google.com/g/openglobalmind/c/EOppg0K8nJI][Climate change and the environment]]
 **** — Including discussion of [[logseq]]
