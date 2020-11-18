@@ -1,5 +1,0 @@
-#+TITLE: joe
-
-** Hi, I think this provides a nice alternative/adjunct to the forums and it could be used to keep track of things, maybe building up a new graph monthly so that it doesn't get too big. [[Nov 18th, 2020]] 
-**
-**
