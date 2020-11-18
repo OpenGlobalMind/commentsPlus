@@ -1,4 +1,10 @@
 #+TITLE: Nov 18th, 2020
 
-** It's not clear why this didn't show up today directly. I did find a work-around for that. Maybe the problem is that we have a mix of `.md` and `.org` format files. Possibly this can be resolved by everyone setting Avi→Settings→Preferred file format: Org
+** It's not clear why this didn't show up today directly. I did find a work-around for that. Maybe the problem is that we have a mix of `.md` and `.org` format files. Possibly this can be resolved by everyone setting Avi→Settings→Preferred file format the same way. Presently mine is set to "Org" but if people hate that we could use Markdown
 ** Today's threads on the OGM email forum:
+*** [[https://groups.google.com/g/openglobalmind/c/EOppg0K8nJI][Climate change and the environment]]
+**** — Including discussion of [[logseq]]
+*** [[https://groups.google.com/g/openglobalmind/c/AIsFGMD8jFE][Biden-voting counties equal 70% of America’s economy. What does this mean for the nation’s political-economic divide?]]
+*** [[https://groups.google.com/g/openglobalmind/c/jccpirx2syU][tipping point film today/ tomorrow free stream north am.]]
+*** [[https://groups.google.com/g/openglobalmind/c/-yBVLj86pHc][obama & media criticism]]
+*** [[https://groups.google.com/g/openglobalmind/c/x3wokFRMBMI][Yuval Harari on Education]]
