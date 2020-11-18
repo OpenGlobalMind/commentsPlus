@@ -1,4 +1,8 @@
-### 2020-09-10, 2020-09-12
+---
+title: graeber grubacic
+---
+
+2020-09-10, 2020-09-12, 2020-11-18
 
 ### Some notes on the anarchist ("stateless socialism") critique of the liberal state.
 
@@ -35,8 +39,3 @@
 		- the existence of these institutions by their very nature
 		drive people to act in ways that make coercive means necessary
 		- equality is the condition for any meaningful freedom
-		
-		
-		
-		  
-		  
