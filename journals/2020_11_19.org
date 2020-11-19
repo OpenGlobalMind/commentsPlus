@@ -1,3 +1,12 @@
 #+TITLE: Nov 19th, 2020
 
-** 
+** This seems basically workable now... :joe:
+** I left the mailing list and created some threads on the forum. :joe:
+*** [[https://forum.openglobalmind.com/t/organizational-infrastructures-and-affiliations-rolodex/391][Organizational Infrastructures and affiliations rolodex]] for people who might be interested in teaming up on grants. (I'm a little bit reminded of the idiom "if you have to ask you don't want to know" but that could be too pessimistic here.)
+** Why did I leave the mailing list? :joe:
+*** Both because Pete said it's largely to be used for announcements; and because it very much currently seems to be used for "disputation", much along the lines of:
+
+#+BEGIN_QUOTE
+"Vaccha, the position that 'the cosmos is eternal' is a thicket of views, a wilderness of views, a contortion of views, a writhing of views, a fetter of views. It is accompanied by suffering, distress, despair, & fever, and it does not lead to disenchantment, dispassion, cessation; to calm, direct knowledge, full Awakening, Unbinding. — https://www.accesstoinsight.org/tipitaka/mn/mn.072.than.html
+#+END_QUOTE
+*** Whereas, I think Logseq *could* be used for constructive collaborative knowledge work (...however I'm mainly working on a couple of separate repos for now!)
