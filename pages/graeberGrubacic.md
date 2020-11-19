@@ -2,8 +2,7 @@
 title: graeber grubacic
 ---
 
-2020-09-10, 2020-09-12, 2020-11-18
-
+2020-09-10, 2020-09-12, 2020-11-18 #[[anderbill]]
 ### Some notes on the anarchist ("stateless socialism") critique of the liberal state.
 
 	1. The reigning political common sense. That is, how societies *must*
