@@ -8,7 +8,7 @@ title: graeber grubacic
 	1. The reigning political common sense. That is, how societies *must*
 	be organized. Our current one is the liberal state.
 	
-	2. Theories of social evolution (dominated the 19th Century and
+	2. Theories of [[social evolution]] (dominated the 19th Century and
 	remain with us today)
 		- human societies can be organized according to stages of
           development [an invented notion]
